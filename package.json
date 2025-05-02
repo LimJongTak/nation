@@ -18,12 +18,13 @@
   "bugs": {
     "url": "https://github.com/LimJongTak/nation/issues"
   },
-  "homepage": "https://github.com/LimJongTak/nation#readme",
+  "homepage": ".",
   "description": "",
   "dependencies": {
     "concurrently": "^6.5.1",
+    "mongoose": "^8.14.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-scripts": "^5.0.1"
+    "react-scripts": "^3.0.1"
   }
 }
