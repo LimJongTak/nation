@@ -14,13 +14,10 @@ import NeedForMed from './pages/NeedForMed';
 import Login from './pages/Login';
 import Register from './pages/Register';
 import Admin from './pages/Admin';
-import Header from './components/Header';
-import Footer from './components/Footer';
 
 const App: React.FC = () => {
   return (
     <div>
-        <Header />
         <Router>
     <Routes>
       <Route path="/" element={<Home />} />
@@ -38,7 +35,6 @@ const App: React.FC = () => {
       <Route path="/admin" element={<Admin />} />
     </Routes>
   </Router>
-        <Footer />
   </div>
     
   );

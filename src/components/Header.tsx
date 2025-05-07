@@ -5,10 +5,10 @@ const Header: React.FC = () => {
     <header>
       <nav>
         <ul>
-          <li><a href="/">Home</a></li>
-          <li><a href="/notices">Notices</a></li>
-          <li><a href="/application">Application</a></li>
-          <li><a href="/board">Board</a></li>
+          <li><a href="/">메인</a></li>
+          <li><a href="/notices">공지사항</a></li>
+          <li><a href="/application">국토순례단 신청</a></li>
+          <li><a href="/board">게시판</a></li>
         </ul>
       </nav>
     </header>
