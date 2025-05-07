@@ -7,7 +7,7 @@ const Login: React.FC = () => {
     <div>
       <Header />
       <main>
-        <h1>Login</h1>
+        <h1>로그인</h1>
         <form>
           <input type="text" placeholder="Username" required />
           <input type="password" placeholder="Password" required />

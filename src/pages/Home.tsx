@@ -7,8 +7,8 @@ const Home: React.FC = () => {
     <div>
       <Header />
       <main>
-        <h1>Welcome to Nation Project</h1>
-        <p>Explore the national pilgrimage and more.</p>
+        <h1>메인 화면</h1>
+        <p>Home.tsx</p>
       </main>
       <Footer />
     </div>

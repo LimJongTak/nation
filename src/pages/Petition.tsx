@@ -7,8 +7,8 @@ const Petition: React.FC = () => {
     <div>
       <Header />
       <main>
-        <h1>Petition for Medical School</h1>
-        <p>Join the petition to establish a medical school in the region.</p>
+        <h1>의대설립 청원</h1>
+        <p>국립순천대학교 의대설립 청원</p>
       </main>
       <Footer />
     </div>

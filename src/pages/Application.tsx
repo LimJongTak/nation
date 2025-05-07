@@ -7,7 +7,7 @@ const Application: React.FC = () => {
     <div>
       <Header />
       <main>
-        <h1>Apply for National Pilgrimage</h1>
+        <h1>국토순례단 신청</h1>
         <form>
           <input type="text" placeholder="Name" required />
           <input type="email" placeholder="Email" required />

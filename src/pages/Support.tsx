@@ -8,7 +8,7 @@ const Support: React.FC = () => {
       <Header />
       <main>
         <h1>Support</h1>
-        <p>Find out how you can support the project.</p>
+        <p>후원 협찬</p>
       </main>
       <Footer />
     </div>

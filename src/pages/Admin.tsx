@@ -7,7 +7,7 @@ const Admin: React.FC = () => {
     <div>
       <Header />
       <main>
-        <h1>Admin Panel</h1>
+        <h1>관리자</h1>
         <p>Manage content and monitor the system from here.</p>
       </main>
       <Footer />

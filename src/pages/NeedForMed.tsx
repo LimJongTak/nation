@@ -7,8 +7,8 @@ const NeedForMed: React.FC = () => {
     <div>
       <Header />
       <main>
-        <h1>The Need for Medical School</h1>
-        <p>Watch the video and learn why we need a medical school in our region.</p>
+        <h1>의대유치 필요성</h1>
+        <p>필요성</p>
       </main>
       <Footer />
     </div>

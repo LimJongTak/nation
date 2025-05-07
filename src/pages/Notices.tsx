@@ -7,8 +7,8 @@ const Notices: React.FC = () => {
     <div>
       <Header />
       <main>
-        <h1>Notices</h1>
-        <p>Upcoming events and important announcements.</p>
+        <h1>공지사항</h1>
+        <p>국토 공지</p>
       </main>
       <Footer />
     </div>

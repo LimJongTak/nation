@@ -7,7 +7,7 @@ const Register: React.FC = () => {
     <div>
       <Header />
       <main>
-        <h1>Register</h1>
+        <h1>회원가입</h1>
         <form>
           <input type="text" placeholder="Name" required />
           <input type="email" placeholder="Email" required />

@@ -7,7 +7,7 @@ const Board: React.FC = () => {
     <div>
       <Header />
       <main>
-        <h1>Board</h1>
+        <h1>게시판</h1>
         <p>Here you can post questions, sketches, and more.</p>
       </main>
       <Footer />

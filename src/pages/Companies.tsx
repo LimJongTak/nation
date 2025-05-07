@@ -7,7 +7,7 @@ const Companies: React.FC = () => {
     <div>
       <Header />
       <main>
-        <h1>Companies Supporting the Project</h1>
+        <h1>회사, 기업, 업체, 단체</h1>
         <p>List of companies, organizations, and institutions supporting the project.</p>
       </main>
       <Footer />

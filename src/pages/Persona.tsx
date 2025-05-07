@@ -8,7 +8,7 @@ const Persona: React.FC = () => {
       <Header />
       <main>
         <h1>Persona</h1>
-        <p>Learn about the personas affected by medical disparities in our region.</p>
+        <p>페르소나</p>
       </main>
       <Footer />
     </div>

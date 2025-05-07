@@ -7,7 +7,7 @@ const Schedule: React.FC = () => {
     <div>
       <Header />
       <main>
-        <h1>Schedule</h1>
+        <h1>일정</h1>
         <ul>
           <li>Event 1: May 12, 2025</li>
           <li>Event 2: June 8, 2025</li>
