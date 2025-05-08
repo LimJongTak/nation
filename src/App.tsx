@@ -14,6 +14,9 @@ import NeedForMed from './pages/NeedForMed';
 import Login from './pages/Login';
 import Register from './pages/Register';
 import Admin from './pages/Admin';
+import FreeBoard from './pages/FreeBoard';
+import Sketch from './pages/Sketch';
+import QnA from './pages/QnA';
 
 const App: React.FC = () => {
   return (
@@ -33,6 +36,9 @@ const App: React.FC = () => {
       <Route path="/login" element={<Login />} />
       <Route path="/register" element={<Register />} />
       <Route path="/admin" element={<Admin />} />
+      <Route path="/freeboard" element={<FreeBoard />} />
+      <Route path="/sketch" element={<Sketch />} />
+      <Route path="/qna" element={<QnA />} />
     </Routes>
   </Router>
   </div>

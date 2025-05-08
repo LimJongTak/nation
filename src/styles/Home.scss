@@ -1,0 +1,19 @@
+/* main 태그에만 적용되는 스타일 */
+.home-main {
+    background-color: #f4f4f4; /* 배경 색상 */
+    padding: 20px;
+    text-align: center;
+    min-height: 100vh; /* 최소 높이를 100vh로 설정 */
+  
+    h1 {
+      font-size: 2.5rem;
+      color: #333;
+    }
+  
+    p {
+      font-size: 1.2rem;
+      color: #666;
+      margin-top: 20px;
+    }
+  }
+  
