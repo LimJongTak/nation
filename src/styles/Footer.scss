@@ -8,6 +8,8 @@
     text-align: center;
     padding: 10px 0;
     font-size: 16px;
+    margin-top: auto; /* 푸터를 페이지 맨 아래에 고정 */
+    height: 60px; /* Footer의 고정 높이 설정 */
   }
   
   .footer p {
